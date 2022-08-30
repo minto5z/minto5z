@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minto5z&label=Profile%20views&color=0e75b6&style=flat" alt="minto5z" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minto5z" alt="minto5z" /></a> </p>
 
 - 🔭 I’m currently working on **IEIMS (Integrated Educational Information Management System)**
 
