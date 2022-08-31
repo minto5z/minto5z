@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.java`, `.dart`, `.xml`, `.yml`
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Backend**
-- 💬 Ping me about **Java**, **Android**, **Flutter**, **RestAPIs**, **Keycloak**
+- 💬 Ping me about **Java**, **Spring-boot**, **Android**, **Flutter**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/minto5z](https://twitter.com/minto5z)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
