@@ -5,7 +5,7 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- ✨ Contributing to [IEIMS](Integrated Educational Information Management System);
 - :fire: Interested in Mobile and Backend engineering;
 - :calendar: Looking for contributing to Java based open source projects 
 
