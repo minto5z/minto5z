@@ -3,16 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minto5z&label=Profile%20views&color=0e75b6&style=flat" alt="minto5z" /> </p>
 
+#### Now
 
-- 🔭 I’m currently working on **IEIMS (Integrated Educational Information Management System)**
+- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- :fire: Interested in Mobile and Backend engineering;
+- :calendar: Looking for contributing to Java based open source projects 
 
-- 🌱 I’m currently learning **Java (Spring Boot), MSSQL, Microservices, Android, Flutter etc.**
+#### Bio
 
-- 👨‍💻 All of my projects are available at [https://github.com/minto5z](https://github.com/minto5z)
-
-- 💬 Ask me about **Java, Competitive Programming**
-
-- 📫 How to reach me **mintocse5@gmail.com**
+- 🏢 I'm currently working at **EATL**
+- ⚙️ I use daily: `.java`, `.dart`, `.xml`, `.yml`
+- 🌍 I'm mostly active within the **Java Community**
+- 🌱 Learning all about **Backend**
+- 💬 Ping me about **Java**, **Android**, **Flutter**, **RestAPIs**, **Keycloak**
+- 📫 Reach me: [twitter.com/minto5z](https://twitter.com/minto5z)
+- 📝 Checkout my [Resume](files/resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,9 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minto5z&" alt="minto5z" /></p>
 
-<b>&#128200; Competitive Programming</b>
+<!-- <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/mintocse5?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/minto5z/cf-stats/main/output/light_card.svg" />
-</p>
+</p> -->
 
