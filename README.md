@@ -30,3 +30,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minto5z&" alt="minto5z" /></p>
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/mintocse5?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/minto5z/cf-stats/main/output/light_card.svg" />
+</p>
+
